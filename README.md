@@ -1,2 +1,1 @@
-# exploring_julia
-Exploring Julia Language
+# Exploring Julia Language
